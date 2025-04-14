@@ -5,6 +5,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Visual Studio Code
+.vscode/
+
 # Compiled Object files
 *.slo
 *.lo
@@ -92,5 +95,8 @@ Build/Android/res/*/*
 # Ignore plugins binaries on deep subfolders
 Plugins/**/Binaries/*
 Plugins/**/Intermediate/*
+
+Content/SuperGrid/*
+Content/Assets/*
 
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
